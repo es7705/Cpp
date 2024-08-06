@@ -1,0 +1,15 @@
+#if 0
+// Adder 클래스 선언부
+#ifndef ADDER_H
+#define ADDER_H
+
+class Adder {
+private:
+	int op1, op2;
+public:
+	Adder(int a, int b);
+	int process();
+};
+#endif // !ADDER_H
+
+#endif

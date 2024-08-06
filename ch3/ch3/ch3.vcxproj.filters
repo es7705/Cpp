@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\3-11">
+      <UniqueIdentifier>{49f39727-43b9-4d60-8928-689664c99f34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\3-11">
+      <UniqueIdentifier>{3f7a4f77-5b6d-4a49-a7a1-4e8435c54650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Circle">
+      <UniqueIdentifier>{349e220b-104e-4df1-8b0c-0a9012abbbbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Circle">
+      <UniqueIdentifier>{b28a7502-03c5-4f89-93dd-21ddf77cecdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Open Challenge">
+      <UniqueIdentifier>{f085c7b2-d91d-4512-8e49-a4620636dbfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\example">
+      <UniqueIdentifier>{97912ea1-1e99-434c-9731-6a54ab1f12ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Open Challenge">
+      <UniqueIdentifier>{e683dd8f-1876-4840-91f0-1a768bafcc8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\exercise">
+      <UniqueIdentifier>{45807835-4568-425d-ab12-dd2490719e6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\exercise">
+      <UniqueIdentifier>{fe0820f2-7e36-4958-924d-247630d57e88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3-11 main.cpp">
+      <Filter>소스 파일\3-11</Filter>
+    </ClCompile>
+    <ClCompile Include="Adder.cpp">
+      <Filter>소스 파일\3-11</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>소스 파일\3-11</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>소스 파일\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle main.cpp">
+      <Filter>소스 파일\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10.cpp">
+      <Filter>소스 파일\example</Filter>
+    </ClCompile>
+    <ClCompile Include="Open Challenge main.cpp">
+      <Filter>소스 파일\Open Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Exp.cpp">
+      <Filter>소스 파일\Open Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="4 main.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="4 CoffeMachine.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="9 main.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="9 Oval.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Adder.h">
+      <Filter>헤더 파일\3-11</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculator.h">
+      <Filter>헤더 파일\3-11</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>헤더 파일\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="Exp.h">
+      <Filter>헤더 파일\Open Challenge</Filter>
+    </ClInclude>
+    <ClInclude Include="4 CoffeMachine.h">
+      <Filter>헤더 파일\exercise</Filter>
+    </ClInclude>
+    <ClInclude Include="9 Oval.h">
+      <Filter>헤더 파일\exercise</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
