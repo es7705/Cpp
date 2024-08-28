@@ -44,7 +44,7 @@ void ColorPoint::showColorPoint()
 int main(void)
 {
 	ColorPoint cp;
-	ColorPoint* pDer;			
+	ColorPoint* pDer;
 	Point* pBase = &cp;			// 업 캐스팅
 
 	pBase->set(3, 4);

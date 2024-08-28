@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\",
+  "WorkspaceRootPath": "D:\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\down-casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|solutionrelative:down-casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\up-casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|solutionrelative:up-casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECC5D7C5-7478-46BA-945B-E79207341846}|ch8.vcxproj|solutionrelative:8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5624C04F-6E3D-4188-B386-EC5044C1CBC6}|ch8.vcxproj|D:\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch8\\\uAC00\uC0C1 \uC0C1\uC18D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5624C04F-6E3D-4188-B386-EC5044C1CBC6}|ch8.vcxproj|solutionrelative:\uAC00\uC0C1 \uC0C1\uC18D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +13,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 491,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,42 +25,20 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "down-casting.cpp",
-              "DocumentMoniker": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\down-casting.cpp",
-              "RelativeDocumentMoniker": "down-casting.cpp",
-              "ToolTip": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\down-casting.cpp",
-              "RelativeToolTip": "down-casting.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Title": "\uAC00\uC0C1 \uC0C1\uC18D.cpp",
+              "DocumentMoniker": "D:\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch8\\\uAC00\uC0C1 \uC0C1\uC18D.cpp",
+              "RelativeDocumentMoniker": "\uAC00\uC0C1 \uC0C1\uC18D.cpp",
+              "ToolTip": "D:\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch8\\\uAC00\uC0C1 \uC0C1\uC18D.cpp",
+              "RelativeToolTip": "\uAC00\uC0C1 \uC0C1\uC18D.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-04T08:05:23.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "up-casting.cpp",
-              "DocumentMoniker": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\up-casting.cpp",
-              "RelativeDocumentMoniker": "up-casting.cpp",
-              "ToolTip": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\up-casting.cpp",
-              "RelativeToolTip": "up-casting.cpp",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-04T07:04:34.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "8-1.cpp",
-              "DocumentMoniker": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\8-1.cpp",
-              "RelativeDocumentMoniker": "8-1.cpp",
-              "ToolTip": "D:\\Study\\C\u002B\u002B\\\uBA85\uD488 C\u002B\u002B\\ch8\\ch8\\8-1.cpp",
-              "RelativeToolTip": "8-1.cpp",
-              "ViewState": "AQIAABAAAAAAAAAAAAAmwDUAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-04T02:12:31.594Z",
+              "WhenOpened": "2024-08-22T12:52:44.708Z",
               "EditorCaption": ""
             }
           ]
