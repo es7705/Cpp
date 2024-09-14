@@ -52,16 +52,16 @@
       <Filter>소스 파일\example</Filter>
     </ClCompile>
     <ClCompile Include="4-11.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\example</Filter>
     </ClCompile>
     <ClCompile Include="4-12.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\example</Filter>
     </ClCompile>
     <ClCompile Include="4-13.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\example</Filter>
     </ClCompile>
     <ClCompile Include="4-14.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\example</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
