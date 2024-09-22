@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|solutionrelative:6-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|solutionrelative:6-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|solutionrelative:\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11C9C1EE-7451-414B-AF7D-54ED7718E203}|ch6.vcxproj|solutionrelative:static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-11.cpp",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-11.cpp",
+              "RelativeDocumentMoniker": "6-11.cpp",
+              "ToolTip": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-11.cpp",
+              "RelativeToolTip": "6-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T14:27:43.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6-10.cpp",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-10.cpp",
+              "RelativeDocumentMoniker": "6-10.cpp",
+              "ToolTip": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\6-10.cpp",
+              "RelativeToolTip": "6-10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T14:13:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp",
+              "RelativeDocumentMoniker": "\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp",
+              "ToolTip": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp",
+              "RelativeToolTip": "\uD074\uB798\uC2A4 \uBA85\uC73C\uB85C static \uBA64\uBC84\uB97C \uC811\uADFC\uD558\uB294 \uC0AC\uB840.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T13:55:30.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp",
+              "RelativeDocumentMoniker": "static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp",
+              "ToolTip": "D:\\My data\\Study\\Coding\\C\u002B\u002B\\\uBA85\uD488C\u002B\u002B\\ch6\\static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp",
+              "RelativeToolTip": "static \uBA64\uBC84\uC758 \uC120\uC5B8\uACFC \uD65C\uC6A9. \uAC1D\uCCB4 \uC774\uB984\uC73C\uB85C \uC811\uADFC.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T12:50:36.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
